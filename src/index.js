@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import './static/css/index.css';
 import reportWebVitals from './reportWebVitals';
+import HeaderLayout from './components/HeaderLayout';
+import LoginForm from './components/formLogin';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <HeaderLayout />
+    <LoginForm />
   </React.StrictMode>
 );
 

@@ -1,0 +1,23 @@
+header {
+    background-color: #712DC8;
+    width: 109.35vw;
+    margin-left: -10%;
+    margin-top: -0.6%;
+}
+body {
+    overflow-x: hidden;
+}
+.logo {
+    margin-left: 9.5%;
+    margin-top: 0.15%;
+    align-self: left;
+    background: none;
+    border: none;
+    background-color: #712DC8;
+  }
+  
+  .logo button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }

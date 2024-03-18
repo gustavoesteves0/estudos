@@ -1,0 +1,25 @@
+.displayControleRobo {
+    margin-top: 10vh;
+    margin-left: 26vw;
+}
+.buttonsControleRobo {
+    margin-left: 10vw;
+    margin-top: 5vh;
+}
+
+.btCR {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.voltar {
+    align-self: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.buttonsControleRobo > * {
+    margin: 0.5vh;
+}
